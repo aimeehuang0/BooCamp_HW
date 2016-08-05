@@ -78,7 +78,7 @@ void draw(){
     else if ( step == 3 && choice == 1){
         textFont(myFont2);
         printTheTitle("The merchant was so glad, and he invited you to go with him");
-        printTheBody("Your now in China. You saw an old man besides you fall down. What will you do","Run","Give a Hand");
+        printTheBody("Your now in China. The old man next to you fell down. What will you do","Run","Give a Hand");
 
         die=false;
     }
